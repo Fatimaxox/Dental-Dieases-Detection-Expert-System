@@ -1,1 +1,1 @@
-# Dental-Dieases-Detection-Expert-System
+# Dental-Dieases-Recommendation-Expert-System
