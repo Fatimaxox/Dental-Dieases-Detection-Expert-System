@@ -11,4 +11,4 @@ An expert system usually uses a trusted source of information to evaluate and re
 5. Gingivitis or Periodontitis.
 6. Oral cancer.
 
-For more information, please visit the URL websites! :)
+For more information, please visit our project website at [https://www.tima-prot.com/project-denta](#).
